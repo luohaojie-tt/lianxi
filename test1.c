@@ -17,5 +17,6 @@ int main(void)
     printf("hello luohaojie this is a test\n");
     getchar();
     printf("shuruwanbi");
+    printf("wojinxinleyicixuigai");
     return 0;
 }
